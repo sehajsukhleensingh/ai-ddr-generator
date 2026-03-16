@@ -2,3 +2,5 @@ urban_venv
 extrastuff
 .DS_Store
 __pycache__
+submission
+.env
